@@ -6,3 +6,73 @@
 .navbar:hover{
   color: #e6b55b;
 }
+
+
+/* Review Section */
+/* ReviewCarousel.css */
+/* .review-slider {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  width: 100%; 
+  height: 300px;
+  border: 5px solid;
+}
+
+.slider-track {
+  display: flex;
+  width: 100%;
+  transition: transform 1s ease-in-out;
+  border: 5px solid red;
+}
+
+.review {
+  flex: 0 0 100%; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  border: 5px solid blue;
+}
+
+.photo {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  margin-bottom: 15px;
+}
+
+.name {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.review-text {
+  font-size: 1rem;
+  max-width: 400px;
+} */
+
+
+.eachReview
+{
+   flex: 0 0 100%;
+}
+
+
+
+
+
+
+/* ________________________End Review section_______________________________________ */
+
+
+/* Short Node */
+.videoSection{
+  flex: 0 0 48%;
+  margin: 20px;
+}
+
+.contentSection{
+  flex: 0 0 48%;
+}
+/* ____________________Short Note End___________________________ */
